@@ -1,7 +1,7 @@
 # DbSchema for Mac – Visual Database Designer and Manager
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/38197/l/dbschema-logo.png?v=1662443719" alt="DbSchema Logo" width="256" height="256">  
+<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_3be97eb424dc19aac0c74a7f4154be46/dbschema.png" alt="DbSchema Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
